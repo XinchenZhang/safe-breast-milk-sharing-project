@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345059514693",
+    "project_id": "breastmilkapplication",
+    "storage_bucket": "breastmilkapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345059514693:android:e021da759f9b6bedb6c62c",
+        "android_client_info": {
+          "package_name": "com.example.breastmilkapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn5lrpKMlcT4l4sXijraOvJpJS7xFGShU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
