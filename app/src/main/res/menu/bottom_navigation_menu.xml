@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home" <!-- 你需要提供图标资源 -->
+    android:title="Home" />
+    <item
+        android:id="@+id/nav_milk_bank"
+        android:icon="@drawable/ic_milk_bank" <!-- 你需要提供图标资源 -->
+    android:title="Milk Bank" />
+    <item
+        android:id="@+id/nav_milk_share"
+        android:icon="@drawable/ic_milk_share" <!-- 你需要提供图标资源 -->
+    android:title="Milk Share" />
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/ic_chat" <!-- 你需要提供图标资源 -->
+    android:title="Chat" />
+    <item
+        android:id="@+id/nav_me"
+        android:icon="@drawable/ic_me" <!-- 你需要提供图标资源 -->
+    android:title="Me" />
+</menu>
